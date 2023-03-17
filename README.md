@@ -29,7 +29,7 @@ Data was effieciently cleaned and transformed with the Power Query Editor of Pow
 
 ## - Removing Speacial Characters
 
-The dataset while imported directly from Kaggle.com has some special characters which really affect the way the Long Name column and the players names was spelt with some special characters which on the long run will affect visualization. Names of Players like Sane, Mbappe, Kante among others were affected.
+The dataset while imported directly from Kaggle.com has some special characters which really affect the way the Long Name column and the players names was spelt. The data has some special characters which on the long run will affect visualization. Names of Players like Sane, Mbappe, Kante among others were affected.
 
 Before
 ![](old_special_charactter.jpg)
