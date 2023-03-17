@@ -145,12 +145,7 @@ After
 
 The project shows that cleaning data is important to make sure it's accurate and reliable. I successfully cleaned the FIFA 21 data, and now it can be studied more.
 
-
-                                                         ```
-                                                         
-                                                         THANK YOU
-                                                         
-                                                         ```
+![](tt.jpg)
 
 
 
