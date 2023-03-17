@@ -13,10 +13,14 @@ The FIFA 21 data, which was obtained from Kaggle, is the dataset used for this c
 
 # Problem Statement
 
-The data we have collected is inaccurate or incomplete, which is preventing us from drawing meaningful conclusions. We need to verify the accuracy of the data and fill in any missing information.
+The data collected were inaccurate or incomplete, which is preventing us from drawing meaningful conclusions. We need to verify the accuracy of the data and fill in any missing information.
+
 Some of the data in our dataset is in the wrong format or has the wrong data type, making it difficult to analyze. We need to identify this data and convert it to the correct format or data type.
+
 The text-based data in our dataset contains formatting issues or unwanted characters that are affecting our analysis. We need to clean up this data to ensure its accuracy.
+
 The dataset contains too many variables or too much irrelevant data that is not necessary for our analysis. We need to remove these variables or data points to focus only on the most relevant data.
+
 The data in our dataset has not been properly labeled or categorized, making it difficult to analyze. We need to review and revise the labelling and categorization of the data to ensure its accuracy and relevance to our analysis.
 
 # Data Transformation/Cleaning
